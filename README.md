@@ -18,8 +18,6 @@ A Warp Terminal port is available [here](https://github.com/Jean-Tinland/warp-ni
 
 ## Colors
 
-## Colors
-
 | Color                                                                                | Hex Code  | Used for                                                                                                              |
 | ------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | ![#1e2737](https://placeholder.valraiso.net/15x15?bg=1e2737&text=%20) Deep dark blue | `#1e2737` | Variable names                                                                                                        |
